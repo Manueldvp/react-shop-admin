@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { CheckIcon, ChevronDownIcon, CurrencyDollarIcon, LinkIcon, MapPinIcon, PencilIcon } from '@heroicons/react/20/solid';
 import { PlusIcon } from '@heroicons/react/20/solid';
 import Link from 'next/link';
-import {XCircleIcon} from '@heroicons/react/20/solid';
+import { XCircleIcon } from '@heroicons/react/20/solid';
 import Modal from '@common/Modal';
 import FormProduct from '@components/FormProduct';
 import axios from 'axios';

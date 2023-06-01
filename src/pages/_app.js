@@ -9,8 +9,7 @@ function MyApp({ Component, pageProps }) {
         <Component {...pageProps} />;
       </MainLayout>
     </ProviderAuth>
-  )
-};
+  );
+}
 
 export default MyApp;
-
